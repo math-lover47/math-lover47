@@ -1,14 +1,26 @@
-<h1 align="center">Hi 👋, I'm Arsen</h1>
-<h3 align="center">Junior Data Scientist</h3>
+<h1 align="center">Arsen</h1>
+<p align="center">
+  <strong>Computer Vision Engineer | Deep Learning Researcher | Edge AI Enthusiast</strong><br>
+  Astana, Kazakhstan
+</p>
 
-I’m a data scientist with a strong backend mindset, focused on building **end-to-end ML and LLM pipelines** — from raw data to production-ready services.
+---
 
-- 🔬 Building ML / LLM pipelines using **LangChain, LangGraph, and Airflow**
-- ⚙️ Developing backend APIs with **FastAPI**, **PostgreSQL**, and **Docker**
-- 🧠 Working with **PyTorch** for ML and computer vision projects
-- 📊 Experienced in real-world data pipelines and orchestration
-- 🧩 Solved **300+ problems on LeetCode** (DSA, problem solving)
-- 🎯 Currently preparing for **Junior Data Scientist** roles
+### Professional Profile
+Computer Vision Engineer with a strong mathematical foundation and a background in backend development. I specialize in building and optimizing deep learning pipelines, from model training to high-performance deployment on edge devices.
 
-📌 Open to **remote / relocation** opportunities  
-📫 Reach me at **https://www.linkedin.com/in/math-lover47**
+---
+
+### Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Deep Learning** | PyTorch, TensorFlow, OpenCV |
+| **Deployment & Optimization** | TensorRT, ONNX Runtime, Docker |
+| **Backend & MLOps** | FastAPI, PostgreSQL, Linux (Ubuntu), n8n, Airflow |
+| **Languages** | Python, Golang, C++, SQL |
+
+---
+
+### Education
+* **B.Sc. in Mathematical and Computational Science** – Astana IT University (2023 – 2026)
