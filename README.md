@@ -1,4 +1,4 @@
-<h1 align="center">Arsen</h1>
+<h1 align="center">Serikbay Arsen</h1>
 <p align="center">
   <strong>Computer Vision Engineer | Deep Learning Researcher | Edge AI Enthusiast</strong><br>
   Astana, Kazakhstan
